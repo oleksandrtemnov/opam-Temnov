@@ -1,0 +1,15 @@
+C:\Users\трудовик\opam-temnov\opam-lab09-temnov\bin\Debug\net10.0\opam-lab09-Temnov.exe
+C:\Users\трудовик\opam-temnov\opam-lab09-temnov\bin\Debug\net10.0\opam-lab09-Temnov.deps.json
+C:\Users\трудовик\opam-temnov\opam-lab09-temnov\bin\Debug\net10.0\opam-lab09-Temnov.runtimeconfig.json
+C:\Users\трудовик\opam-temnov\opam-lab09-temnov\bin\Debug\net10.0\opam-lab09-Temnov.dll
+C:\Users\трудовик\opam-temnov\opam-lab09-temnov\bin\Debug\net10.0\opam-lab09-Temnov.pdb
+C:\Users\трудовик\opam-temnov\opam-lab09-temnov\obj\Debug\net10.0\opam-lab09-Temnov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\трудовик\opam-temnov\opam-lab09-temnov\obj\Debug\net10.0\opam-lab09-Temnov.AssemblyInfoInputs.cache
+C:\Users\трудовик\opam-temnov\opam-lab09-temnov\obj\Debug\net10.0\opam-lab09-Temnov.AssemblyInfo.cs
+C:\Users\трудовик\opam-temnov\opam-lab09-temnov\obj\Debug\net10.0\opam-lab09-Temnov.csproj.CoreCompileInputs.cache
+C:\Users\трудовик\opam-temnov\opam-lab09-temnov\obj\Debug\net10.0\opam-lab09-Temnov.sourcelink.json
+C:\Users\трудовик\opam-temnov\opam-lab09-temnov\obj\Debug\net10.0\opam-lab09-Temnov.dll
+C:\Users\трудовик\opam-temnov\opam-lab09-temnov\obj\Debug\net10.0\refint\opam-lab09-Temnov.dll
+C:\Users\трудовик\opam-temnov\opam-lab09-temnov\obj\Debug\net10.0\opam-lab09-Temnov.pdb
+C:\Users\трудовик\opam-temnov\opam-lab09-temnov\obj\Debug\net10.0\opam-lab09-Temnov.genruntimeconfig.cache
+C:\Users\трудовик\opam-temnov\opam-lab09-temnov\obj\Debug\net10.0\ref\opam-lab09-Temnov.dll
